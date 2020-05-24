@@ -8,7 +8,7 @@
 
 <hr>
 
-### 程式相關技能
+### 程式相關技能 Coding Skills
 
 #### HTML/CSS 
 - 網頁排版、W3C、Bootstrap、CSS Animation、Filter、Transform等各應用。
@@ -51,7 +51,7 @@
 <hr>
 
 
-### 專案＆個人作品
+### 專案＆個人作品 Portfolio
 
 - <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
   ⌞ Wordpress.org應用。 <br>
@@ -76,8 +76,17 @@
   ⌞ jsp程式碼撰寫。 <br>
   
 <hr>
+### 其他技能 Other Skills
 
-### 英文相關能力
+#### Google GA
+-
+
+#### Photoshop / Illustrator
+- 基礎操作、簡易海報設計
+
+<hr>
+
+### 英文相關能力 English Abilities
 
 #### GRE
 - V+Q 314 , AW 3.5
@@ -87,7 +96,7 @@
 
 <hr>
 
-### 大學經歷
+### 大學經歷 Experience
 
 #### 綠河社區大學 - 台灣文化社 TCA ｜ 公關PR ｜ 2016/09 - 2017/08
 * 負責內容 ： 台灣文化的推廣、活動企劃 
@@ -103,5 +112,5 @@
 
 <hr>
 
-### 關於我與未來計劃
+### 關於我 About Me
 - 
