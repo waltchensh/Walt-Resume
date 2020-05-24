@@ -2,36 +2,77 @@
 - Birthday： 1997/04/12 <br>
 - Education : 中原大學-資訊管理學系 CYIM <br>
 - Location : 桃園市中壢區 <br>
+- Phone : (+886) 0970080998 <br>
 - E-mail : waltchensh@gmail.com <br>
 - Website : <br>
+
 <hr>
 
-### 程式技能
+### 程式相關技能
 
-- 能以 HTML、CSS(SCSS) 做 RWD 網頁架構、排版，並使用 jQuery、JavaScript 做網頁動效(互動)，目前已有多個專案經驗。
-- 了解 Bootstrap 架構，並能適時導入專案加快開發效率。
-- 大型網站建置經驗。 
+#### HTML/CSS 
+- 網頁排版、W3C、Bootstrap、CSS Animation、Filter、Transform等各應用。
+#### JavaScript/jQuery
+- 了解程式邏輯及基礎語法、功能撰寫，例如：購物車Cookie建立、讀取、刪除、控制，另外還有基本的透過jQuery修改CSS、onclick、及Toggle等應用撰寫。
+#### Wordpress
+- 自己有使用阿里雲ECS架設wordpress.org版本，自行設計網頁，其中也包括Linux cmd指令操作、後台資料庫（MySQL）修改等，亦有使用wordpress.com版本幫他人架設健康食品官網。
+- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
+#### Node.js / npm / React.js
+- 於中原108-2學期參加企業資源規劃課程，該課程與大陸用有雲合作，授課內容包括前後端（react.js、node.js及eclipse)，學習架設基本的企業後台操作網頁，包括新增、修改、刪除、查詢等基本功能。
+<img>
+#### Python
+- 了解基礎程式語法撰寫、爬取網站資料加以應用及畫圖、分析等。
+<a href="" target="_blank"><B>Python 課程 Final Project</B></a>
+#### JAVA / Android Studio
+- 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
+<img>
+<a href="" target="_blank"><B>銀髮社群 APP</B></a>
+#### C++ / Visual Studio / Unity
+- 了解各C語言語法撰寫、Unity VR/AR 腳本撰寫、API串接應用等。
+<a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
+#### MySQL
+- 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
+#### Firebase
+- 與Android Studio連結、資料庫、登入註冊等功能使用。
+<hr>
+
+### 其他技能
+#### Adobe Photoshop / Illustrator
+- 圖片、插圖、海報設計。
+
+### 英文相關
+#### GRE
+- V+Q 314 , AW 3.5
+#### IELTS
+- Overall 6.0
+
 <hr>
 
 ### 專案＆個人作品
 
-- <a href="" target="_blank"><B>blablabla</B></a> <br>
-  ⌞ 手刻響應式網頁(RWD)。 <br>
-  ⌞ jQuery 動效 (ex:漢堡選單、偵測瀏覽器高度、Lightbox等等...)。 <br>
-  ⌞ Google Map API 的串接應用。
+- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
+  ⌞ Wordpress.org應用。 <br>
+  ⌞ Linux command line 操作。 <br>
+  ⌞ MySQL資料維護、儲存、修改等。 <br>
+  ⌞ 租用伺服器、網域購置、阿里巴巴ECS。
 
-- <a href="" target="_blank"><B>blablabla</B></a> <br>
-  ⌞ 手刻大型響應式網頁(RWD)。 <br>
-  ⌞ jQuery 動效。<br>
+- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
+  ⌞ Visual Studio 腳本撰寫。<br>
+  ⌞ API 串接。<br>
+  ⌞ 專案簡介網頁。<br>
+  ⌞ 競賽海報設計。<br>
   
-- <a href="" target="_blank"><B>blablabla</B></a> <br>
-  ⌞ 網站改版。 <br>
-  ⌞ Google Map API 的串接應用。<br>
+- <a href="" target="_blank"><B>銀髮社群 APP</B></a> <br>
+  ⌞ Android Studio 操作。 <br>
   
-- <a href="" target="_blank"><B>blablabla</B></a> <br>
-  ⌞ 無障礙網站建置。 <br>
-  ⌞ 了解無障礙網站規範。<br>
-
+- <a href="" target="_blank"><B>Florist Shop</B></a> <br>
+  ⌞ 版面設計、前端程式碼撰寫。 <br>
+  ⌞ 版面設計、前端程式碼撰寫。 <br>
+  
+- <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
+  ⌞ jsp程式碼撰寫。 <br>
+  
+<hr>
 
 ### 大學經歷
 
