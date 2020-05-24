@@ -47,17 +47,6 @@
 
 <hr>
 
-### 其他技能
-#### Adobe Photoshop / Illustrator
-- 圖片、插圖、海報設計。
-
-### 英文相關
-#### GRE
-- V+Q 314 , AW 3.5
-#### IELTS
-- Overall 6.0
-
-<hr>
 
 ### 專案＆個人作品
 
@@ -83,6 +72,20 @@
 - <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
   ⌞ jsp程式碼撰寫。 <br>
   
+<hr>
+
+### 其他技能
+#### Adobe Photoshop / Illustrator
+- 圖片、插圖、海報設計。
+
+<hr>
+
+### 英文相關能力
+#### GRE
+- V+Q 314 , AW 3.5
+#### IELTS
+- Overall 6.0
+
 <hr>
 
 ### 大學經歷
