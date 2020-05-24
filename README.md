@@ -12,32 +12,35 @@
 
 #### HTML/CSS 
 - 網頁排版、W3C、Bootstrap、CSS Animation、Filter、Transform等各應用。
+
 #### JavaScript/jQuery
 - 了解程式邏輯及基礎語法、功能撰寫，例如：購物車Cookie建立、讀取、刪除、控制，另外還有基本的透過jQuery修改CSS、onclick、及Toggle等應用撰寫。
+
 #### Wordpress
 - 自己有使用阿里雲ECS架設wordpress.org版本，自行設計網頁，其中也包括Linux cmd指令操作、後台資料庫（MySQL）修改等，亦有使用wordpress.com版本幫他人架設健康食品官網。
-- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
+  * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
+
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與大陸用有雲合作，授課內容包括前後端（react.js、node.js及eclipse)，學習架設基本的企業後台操作網頁，包括新增、修改、刪除、查詢等基本功能。
-- img
+  * ![](https://github.com/waltchensh/res/blablabla.jpg)
 
 #### Python
 - 了解基礎程式語法撰寫、爬取網站資料加以應用及畫圖、分析等。
-- <a href="" target="_blank"><B>Python 課程 Final Project</B></a>
+  * <a href="" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
-- img
-- <a href="" target="_blank"><B>銀髮社群 APP</B></a>
+  * ![](https://github.com/waltchensh/res/blablabla.jpg)
+  * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
 
 #### C++ / Visual Studio / Unity
 - 了解各C語言語法撰寫、Unity VR/AR 腳本撰寫、API串接應用等。
-- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
+  * <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
 
 #### Swift Xcode
 - 於中原107-2學期參與ios程式設計課程，另外也透過Stanford的cs193p課程影片自學，成果包括基本的翻卡牌遊戲、
-- <a href="" target="_blank"><B>Concentration</B></a>
-- <a href="" target="_blank"><B>Emoji Art</B></a>
+  * <a href="" target="_blank"><B>Concentration</B></a>
+  * <a href="" target="_blank"><B>Emoji Art</B></a>
 
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
@@ -75,8 +78,10 @@
 <hr>
 
 ### 英文相關能力
+
 #### GRE
 - V+Q 314 , AW 3.5
+
 #### IELTS
 - Overall 6.0
 
@@ -84,7 +89,7 @@
 
 ### 大學經歷
 
-#### '綠河社區大學 - 台灣文化社 TCA' ｜ '公關PR' ｜ 2016/09 - 2017/08
+#### 綠河社區大學 - 台灣文化社 TCA ｜ 公關PR ｜ 2016/09 - 2017/08
 * 負責內容 ： 台灣文化的推廣、活動企劃 
 * 經歷簡介 ： 就讀於華盛頓州 Green River College 時擔任台灣文化社PR，期間參與活動企劃並推動各大節慶活動，包括包水餃體驗、中秋烤肉、雙十活動、農曆新年團圓火鍋等，也帶領社員參與 University of Washington 舉辦的夜市活動，透過社團向來自世界各地的同學宣傳台灣文化，並有機會體驗台灣的風俗。
 
