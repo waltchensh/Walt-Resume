@@ -19,21 +19,32 @@
 - <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與大陸用有雲合作，授課內容包括前後端（react.js、node.js及eclipse)，學習架設基本的企業後台操作網頁，包括新增、修改、刪除、查詢等基本功能。
-<img>
+- img
+
 #### Python
 - 了解基礎程式語法撰寫、爬取網站資料加以應用及畫圖、分析等。
-<a href="" target="_blank"><B>Python 課程 Final Project</B></a>
+- <a href="" target="_blank"><B>Python 課程 Final Project</B></a>
+
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
-<img>
-<a href="" target="_blank"><B>銀髮社群 APP</B></a>
+- img
+- <a href="" target="_blank"><B>銀髮社群 APP</B></a>
+
 #### C++ / Visual Studio / Unity
 - 了解各C語言語法撰寫、Unity VR/AR 腳本撰寫、API串接應用等。
-<a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
+- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
+
+#### Swift Xcode
+- 於中原107-2學期參與ios程式設計課程，另外也透過Stanford的cs193p課程影片自學，成果包括基本的翻卡牌遊戲、
+- <a href="" target="_blank"><B>Concentration</B></a>
+- <a href="" target="_blank"><B>Emoji Art</B></a>
+
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
+
 #### Firebase
 - 與Android Studio連結、資料庫、登入註冊等功能使用。
+
 <hr>
 
 ### 其他技能
