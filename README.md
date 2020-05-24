@@ -74,12 +74,6 @@
   
 <hr>
 
-### 其他技能
-#### Adobe Photoshop / Illustrator
-- 圖片、插圖、海報設計。
-
-<hr>
-
 ### 英文相關能力
 #### GRE
 - V+Q 314 , AW 3.5
