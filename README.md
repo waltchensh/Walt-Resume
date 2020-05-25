@@ -37,7 +37,8 @@
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
-  * ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
+  * APP使用畫面截圖 : 
+    ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
   * ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
   * ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
 
