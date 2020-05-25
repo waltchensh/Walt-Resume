@@ -22,7 +22,7 @@
   * Go Beyond Edu 網頁畫面截圖 : ![](https://github.com/waltchensh/GoBeyondEdu/blob/master/GoBeyondEdu.png)
 
 #### Node.js / npm / React.js
-- 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（react.js、node.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
+- 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
   ![](https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png)
   ![](https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many-add.png)
