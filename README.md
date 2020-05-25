@@ -37,10 +37,8 @@
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
-  * APP使用畫面截圖 : 
-    ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
-  * ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
-  * ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
+  * APP使用畫面截圖 : <br>
+    ![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)![](https://github.com/waltchensh/Android_ElderApp/blob/master/elder-app.png)
 
 #### C++ / Visual Studio / Unity
 - 了解各C語言語法撰寫、Unity VR/AR 腳本撰寫、API串接應用等。
