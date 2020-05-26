@@ -11,7 +11,7 @@
 ### 程式相關技能 Coding Skills
 
 #### HTML/CSS 
-- 網頁排版、W3Schools、Bootstrap、CSS Animation、Filter、Transform等應用能力。
+- 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform等應用能力。
 
 #### JavaScript/jQuery
 - 了解程式邏輯及基礎語法、功能撰寫，例如：購物車透過Cookie建立、讀取、刪除、控制，另外還有基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
