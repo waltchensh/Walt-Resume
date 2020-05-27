@@ -88,7 +88,7 @@
 
 #### Photoshop / Illustrator
 - 基礎操作、簡易海報設計
-
+- <img>
 <hr>
 
 ### 英文相關能力 English Abilities
