@@ -68,7 +68,10 @@
   ⌞ 競賽海報設計。<br>
   
 - <a href="" target="_blank"><B>銀髮社群 APP</B></a> <br>
-  ⌞ Android Studio 基本操作。 <br>
+  ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
+  ⌞ 資料庫設計 <br>
+  ⌞ UX / UI 使用者體驗構想及設計 <br>
+  ⌞ SA 系統分析 <br>
   
 - <a href="" target="_blank"><B>Florist Shop</B></a> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
