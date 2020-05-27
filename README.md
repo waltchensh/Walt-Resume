@@ -19,13 +19,13 @@
 #### Wordpress
 - 具有使用阿里雲ECS架設wordpress.org版本的經驗，自行設計網頁、工具應用，其中也包括Linux cmd指令操作、後台資料庫（MySQL）修改等，亦曾使用wordpress.com版本幫他人架設健康食品官網。
   * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
-  * Go Beyond Edu 網頁畫面截圖 : ![](https://github.com/waltchensh/GoBeyondEdu/blob/master/GoBeyondEdu.png)
+  * Go Beyond Edu 網頁畫面截圖 : <img src="https://github.com/waltchensh/GoBeyondEdu/blob/master/GoBeyondEdu.png>
 
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
-  ![](https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png)
-  ![](https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many-add.png)
+  <img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png">
+  <img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many-add.png">
   
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
