@@ -30,7 +30,7 @@
 
 #### Python
 - 了解基礎程式語法撰寫、Data Mining、Data Visualization、django、爬取網站資料加以應用及畫圖、分析等。
-  * <a href="" target="_blank"><B>Python 課程 Final Project</B></a>
+  * <a href="https://github.com/waltchensh/Python_Final_Project" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描、Navbar 設計等等。
