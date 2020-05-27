@@ -49,7 +49,7 @@
   * <a href="" target="_blank"><B>Emoji Art</B></a>
 
 #### Firebase
-- 與Android Studio連結、資料庫、登入註冊等功能使用。
+- 與Android Studio連結，資料庫、登入註冊等功能使用。
 
 <hr>
 
