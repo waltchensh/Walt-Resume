@@ -33,12 +33,10 @@
   * <a href="" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
-- 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
+- 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、Navar設計等等。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
   * APP使用畫面截圖 : <br>
    <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="25%"></div>
-
-  
 
 #### C++ / Visual Studio / Unity
 - 了解各C語言語法撰寫、Unity VR/AR 腳本撰寫、API串接應用等。
@@ -111,8 +109,8 @@
 * 負責內容 ： 時間與流程管理、活動企劃構想及規劃、企劃書撰寫、執行評估報告撰寫
 * 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共25組的競賽中滿意度問卷調查及參與人數獲得第三名。
 
-#### 中原大學 - 系統分析與設計課程 - 銀髮社群APP ｜ 技術長CTO ｜ 2019/09 - 2020/01
-* 負責內容 ： 程式設計及撰寫、資料庫設計、使用者體驗構想
+#### 中原大學 - SA系統分析與設計課程 - 銀髮社群APP ｜ 技術長CTO ｜ 2019/09 - 2020/01
+* 負責內容 ： 程式設計及撰寫、資料庫設計、UX/UI使用者體驗構想及設計、SA系統分析
 * 經歷簡介 ： 課程與銀髮族協會合作，其中負責撰寫幫助銀髮族聚會的 APP ，透過 Android Studio 設計，並於系內班際競賽中贏過隔壁班對抗組所設計的APP。
 
 <hr>
