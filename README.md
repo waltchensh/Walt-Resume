@@ -41,6 +41,7 @@
 #### C++ / Visual Studio / Unity
 - 了解各 C 語言語法撰寫、Unity VR/AR 腳本撰寫、API 串接應用等。
   * <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
+  * <img>
 
 #### Swift Xcode
 - 於中原107-2學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中MVC概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計APP。
@@ -86,6 +87,7 @@
 
 #### Google Analytics 認證、Google Ads 入門認證
 -
+- <img>
 
 #### Photoshop / Illustrator
 - 基礎操作、簡易海報設計
@@ -97,9 +99,10 @@
 
 #### GRE
 - V+Q 314 , AWA 3.5
+- 附件?
 
 #### IELTS
-- Overall 6.0
+- Overall 6.0 (2017/02 ~ 2019/02)
 
 <hr>
 
@@ -122,3 +125,4 @@
 ### 關於我 About Me
 - 
 ### 附件區 Attachments
+
