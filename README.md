@@ -35,7 +35,7 @@
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描等功能應用。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
-  * APP使用畫面截圖 : <br>
+  * APP 使用畫面截圖及 Firebase DB : <br>
    <div align=center><img src="https://github.com/waltchensh/Android_Elder_App/blob/master/elderapp-login.png" width="80%"></div>
 
 #### C++ / Visual Studio / Unity
