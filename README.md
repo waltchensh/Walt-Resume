@@ -20,12 +20,12 @@
 - 具有使用阿里雲ECS架設wordpress.org版本的經驗，自行設計網頁、工具應用，其中也包括Linux cmd指令操作、後台資料庫（MySQL）修改等，亦曾使用wordpress.com版本幫他人架設健康食品官網。
   * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
   * Go Beyond Edu 網頁畫面截圖 : <br>
-   <img src="https://github.com/waltchensh/GoBeyondEdu/blob/master/GoBeyondEdu.png" width="80%">
+   <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu/blob/master/GoBeyondEdu.png" width="80%"></div>
 
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
-   <img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png" width="80%">
+   <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png" width="80%"></div>
   
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
@@ -38,7 +38,7 @@
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
   * APP使用畫面截圖 : <br>
-   <center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="25%"></center>
+   <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="25%"></div>
 
   
 
