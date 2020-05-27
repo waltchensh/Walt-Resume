@@ -21,7 +21,7 @@
   * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
   
 #### Node.js / npm / React.js
-- 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
+- 於中原108-2學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
    <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png" width="80%"></div>
   
