@@ -23,7 +23,7 @@
 
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與用有雲企業合作，授課內容包括前後端程式碼撰寫及整合（node.js、react.js及eclipse使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
-  * 網頁畫面截圖 : <br>
+  * 網頁畫面截圖 :
   <img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png" width="80%">
   <img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many-add.png" width="80%">
   
@@ -37,9 +37,9 @@
 #### JAVA / Android Studio
 - 了解基礎程式語法撰寫、Android APP基礎開發，包括QR Code產生、掃描、NavBar設計等等。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
-  * APP使用畫面截圖 : <br>
+  * APP使用畫面截圖 : 
   <img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp.png" width="80%">
-  <img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="80%">
+  <img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="25%">
   <img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%">
 
 #### C++ / Visual Studio / Unity
