@@ -33,7 +33,7 @@
   * <a href="https://github.com/waltchensh/Python_Final_Project" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
-- 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描、Navbar 設計等等。
+- 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描等功能應用。
   * <a href="" target="_blank"><B>銀髮社群 APP</B></a>
   * APP使用畫面截圖 : <br>
    <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-signup.png" width="25%"></div>
