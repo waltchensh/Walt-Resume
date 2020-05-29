@@ -14,7 +14,7 @@
 - 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform 等應用能力。
 
 #### JavaScript / jQuery
-- 了解程式邏輯及基礎語法、功能撰寫，例如：購物車透過Cookie建立、讀取、刪除、控制，另外還有基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
+- 了解程式邏輯及基礎語法、功能撰寫，例如：購物車透過Cookie建立、讀取、刪除、基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
 
 #### Wordpress
 - 具有使用阿里雲 ECS 架設 wordpress.org 版本的經驗，自行設計網頁、工具應用，其中也包括 Linux cmd 指令操作、後台資料庫（MySQL）修改等，亦曾使用 wordpress.com 版本幫他人架設健康食品官網。
