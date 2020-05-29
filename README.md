@@ -36,7 +36,7 @@
 - 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描等功能應用。
   * <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
   * APP 使用畫面截圖及 Firebase DB : <br>
-   <div align=center><img src="https://github.com/waltchensh/Android_Elder_App/blob/master/elderapp-login.png" width="80%"></div>
+   <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
 
 #### C++ / Visual Studio / Unity
 - 了解各 C 語言語法撰寫、Unity VR/AR 腳本撰寫、API 串接應用等。
