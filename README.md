@@ -45,9 +45,9 @@
 
 #### Swift Xcode
 - 於中原107-2學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中MVC概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計APP。
-  * <a href="" target="_blank"><B>Concentration</B></a>
-  * <a href="" target="_blank"><B>Emoji Art</B></a>
-
+  * <a href="https://github.com/waltchensh/EmojiArt_APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
+  * Emoji Art 畫面截圖：<br>
+  
 #### Firebase
 - 與Android Studio連結，資料庫、登入註冊等功能使用。
 
