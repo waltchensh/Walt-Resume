@@ -23,7 +23,7 @@
 #### Node.js / npm / React.js
 - 於中原108-2學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前後端程式碼撰寫及整合（Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
-   <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterdetail-many.png" width="80%"></div>
+   <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterDetail-many.png" width="80%"></div>
   
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
