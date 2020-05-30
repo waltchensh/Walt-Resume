@@ -80,7 +80,7 @@
 - <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
   ⌞ 版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
-  ⌞ jsp後端程式碼撰寫。 <br>
+  ⌞ JSP後端程式碼撰寫。 <br>
   ⌞ 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
   
 <hr>
