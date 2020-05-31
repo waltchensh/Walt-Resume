@@ -14,7 +14,7 @@
 - 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform 等應用能力。
 
 #### JavaScript / jQuery
-- 了解程式邏輯及基礎語法、功能撰寫，例如：購物車透過Cookie建立、讀取、刪除、基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
+- 了解基礎的語法使用、功能撰寫，例如：透過Cookie建立、讀取、刪除資料、基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
 
 #### Wordpress
 - 具有使用阿里雲 ECS 架設 wordpress.org 版本的經驗，自行設計網頁、工具應用，其中也包括 Linux cmd 指令操作、後台資料庫（MySQL）修改等，亦曾使用 wordpress.com 版本幫他人架設健康食品官網。
@@ -33,16 +33,21 @@
   * <a href="https://github.com/waltchensh/Python_Final_Project" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
-- 了解基礎程式語法撰寫、Android APP 基礎開發，包括 QR Code 產生、掃描等功能應用。
+- 了解程式設計及邏輯、基礎程式語法撰寫、Android APP 簡易開發、 QR Code 產生和掃描等功能應用。
   * <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
   * APP 使用畫面截圖及 Firebase DB : <br>
    <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
 
-#### C++ / Visual Studio / Unity
-- 了解各 C 語言語法撰寫、Unity VR/AR 腳本撰寫、API 串接應用等。
+#### C# / Unity
+- Unity VR/AR 腳本撰寫、API 串接應用等。
   * <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
   * <img>
 
+#### C++
+ - 資料結構，陣列應用、Stack、Big O Notation等概念。
+  * <a href="" target="_blank"><B>中原資工系資料結構課程期中</B></a>
+  * <a href="" target="_blank"><B>中原資工系資料結構課程期末</B></a>
+  
 #### Swift Xcode
 - 於中原107-2學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中MVC概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計APP。
   * <a href="https://github.com/waltchensh/EmojiArt_APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
