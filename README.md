@@ -49,7 +49,7 @@
   * <a href="" target="_blank"><B>107-2 中原資工系資料結構課程期末</B></a>
   
 #### Swift Xcode
-- 於中原 107-2 學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計 APP。
+- 於中原 107-2 學期修讀 iOS 程式設計課程，另外也透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計 APP。
   * <a href="https://github.com/waltchensh/EmojiArt_APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
   
 #### Firebase
