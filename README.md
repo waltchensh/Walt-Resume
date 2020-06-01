@@ -21,7 +21,7 @@
   * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
   
 #### Node.js / npm / React.js
-- 於中原108-2學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前後端程式碼撰寫及整合（Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
+- 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前後端程式碼撰寫及整合（Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * 網頁畫面截圖 : <br>
    <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterDetail-many.png" width="80%"></div>
   
@@ -33,7 +33,7 @@
   * <a href="https://github.com/waltchensh/Python_Final_Project" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
-- 了解程式設計及邏輯、基礎程式語法撰寫、Android APP 簡易開發、 QR Code 產生和掃描等功能應用。
+- 了解程式設計及邏輯、基礎程式語法撰寫、Android APP 簡易開發、QR Code 產生和掃描等功能應用。
   * <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
   * APP 使用畫面截圖及 Firebase DB : <br>
    <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
@@ -44,16 +44,16 @@
   * <img>
 
 #### C++
-- 資料結構，Binary Search Tree、陣列應用、Stack、Big O Notation等概念。
-  * <a href="" target="_blank"><B>107-2中原資工系資料結構課程期中</B></a>
-  * <a href="" target="_blank"><B>107-2中原資工系資料結構課程期末</B></a>
+- 資料結構，Binary Search Tree、陣列應用、Stack、Big O Notation 等概念。
+  * <a href="" target="_blank"><B>107-2 中原資工系資料結構課程期中</B></a>
+  * <a href="" target="_blank"><B>107-2 中原資工系資料結構課程期末</B></a>
   
 #### Swift Xcode
-- 於中原107-2學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中MVC概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計APP。
+- 於中原 107-2 學期參與 iOS 程式設計課程，另外也曾透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計 APP。
   * <a href="https://github.com/waltchensh/EmojiArt_APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
   
 #### Firebase
-- 與Android Studio連結，資料庫、登入註冊等功能使用。
+- 與 Android Studio 連結，資料庫、登入註冊等功能使用。
 
 <hr>
 
@@ -64,7 +64,7 @@
   ⌞ Wordpress.org 應用。 <br>
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
-  ⌞ 租用伺服器、網域購置、阿里巴巴ECS。
+  ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。
 
 - <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
   ⌞ Visual Studio 腳本撰寫。<br>
@@ -85,7 +85,7 @@
 - <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
   ⌞ 版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
-  ⌞ JSP後端程式碼撰寫。 <br>
+  ⌞ JSP 後端程式碼撰寫。 <br>
   ⌞ 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
   
 <hr>
@@ -121,7 +121,7 @@
 
 ####  中原大學 - SE 軟體專案管理課程 ｜ 組長 ｜ 2019/02 - 2019/06
 * 負責內容 ： 時間與流程管理、活動企劃構想及規劃、企劃書撰寫、執行評估報告撰寫
-* 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共25組的競賽中滿意度問卷調查及參與人數獲得第三名。
+* 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共 25 組的競賽中滿意度問卷調查及參與人數獲得第三名。
 
 #### 中原大學 - SA 系統分析與設計課程 - 銀髮社群 APP ｜ 技術長 CTO ｜ 2019/09 - 2020/01
 * 負責內容 ： 程式設計及撰寫、資料庫設計、UX / UI 使用者體驗構想及設計、SA 系統分析
