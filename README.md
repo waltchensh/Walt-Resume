@@ -8,6 +8,38 @@
 
 <hr>
 
+### 專案＆個人作品 Portfolio
+
+- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
+  ⌞ Wordpress.org 應用。 <br>
+  ⌞ Linux command line 操作。 <br>
+  ⌞ MySQL 資料維護、儲存、修改等。 <br>
+  ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。
+
+- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
+  ⌞ Visual Studio 腳本撰寫。<br>
+  ⌞ API 串接。<br>
+  ⌞ 專案簡介網頁。<br>
+  ⌞ 競賽海報設計。<br>
+  
+- <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
+  ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
+  ⌞ 資料庫設計。 <br>
+  ⌞ UX / UI 使用者體驗構想及設計。 <br>
+  ⌞ SA 系統分析。 <br>
+  
+- <a href="" target="_blank"><B>Florist Shop</B></a> <br>
+  ⌞ 負責版面設計、前端程式碼撰寫。 <br>
+  ⌞ 留言板、購物車等功能。<br>
+  
+- <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
+  ⌞ 版面設計、前端程式碼撰寫。 <br>
+  ⌞ 留言板、購物車等功能。<br>
+  ⌞ JSP 後端程式碼撰寫。 <br>
+  ⌞ 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
+  
+<hr>
+
 ### 程式相關技能 Coding Skills
 
 #### HTML / CSS 
@@ -55,39 +87,6 @@
 #### Firebase
 - 與 Android Studio 連結，資料庫、登入註冊等功能使用。
 
-<hr>
-
-
-### 專案＆個人作品 Portfolio
-
-- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
-  ⌞ Wordpress.org 應用。 <br>
-  ⌞ Linux command line 操作。 <br>
-  ⌞ MySQL 資料維護、儲存、修改等。 <br>
-  ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。
-
-- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
-  ⌞ Visual Studio 腳本撰寫。<br>
-  ⌞ API 串接。<br>
-  ⌞ 專案簡介網頁。<br>
-  ⌞ 競賽海報設計。<br>
-  
-- <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
-  ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
-  ⌞ 資料庫設計。 <br>
-  ⌞ UX / UI 使用者體驗構想及設計。 <br>
-  ⌞ SA 系統分析。 <br>
-  
-- <a href="" target="_blank"><B>Florist Shop</B></a> <br>
-  ⌞ 負責版面設計、前端程式碼撰寫。 <br>
-  ⌞ 留言板、購物車等功能。<br>
-  
-- <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
-  ⌞ 版面設計、前端程式碼撰寫。 <br>
-  ⌞ 留言板、購物車等功能。<br>
-  ⌞ JSP 後端程式碼撰寫。 <br>
-  ⌞ 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
-  
 <hr>
 
 ### 其他技能 Other Skills
