@@ -14,7 +14,7 @@
   ⌞ Wordpress.org 應用。 <br>
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
-  ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。
+  ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。<br>
   ⌞ Go Beyond Edu 畫面截圖：<br>
     <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu_Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
 
