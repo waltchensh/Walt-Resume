@@ -23,7 +23,7 @@
   ⌞ API 串接。<br>
   ⌞ 專案簡介網頁。<br>
   ⌞ 競賽海報設計。<br>
-  ⌞
+  ⌞ <img>
   
 - <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
   ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
