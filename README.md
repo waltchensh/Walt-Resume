@@ -15,18 +15,23 @@
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
   ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。
+  ⌞ Go Beyond Edu 畫面截圖：<br>
+    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu_Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
 
 - <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
   ⌞ Visual Studio 腳本撰寫。<br>
   ⌞ API 串接。<br>
   ⌞ 專案簡介網頁。<br>
   ⌞ 競賽海報設計。<br>
+  ⌞
   
 - <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
   ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
   ⌞ 資料庫設計。 <br>
   ⌞ UX / UI 使用者體驗構想及設計。 <br>
   ⌞ SA 系統分析。 <br>
+  ⌞ APP 使用畫面截圖及 Firebase DB : <br>
+  <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
   
 - <a href="" target="_blank"><B>Florist Shop</B></a> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
@@ -67,8 +72,6 @@
 #### JAVA / Android Studio
 - 了解程式設計及邏輯、基礎程式語法撰寫、Android APP 簡易開發、QR Code 產生和掃描等功能應用。
   * <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
-  * APP 使用畫面截圖及 Firebase DB : <br>
-   <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
 
 #### C# / Unity
 - Unity VR/AR 腳本撰寫、API 串接應用等。
