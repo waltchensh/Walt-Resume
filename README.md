@@ -8,7 +8,7 @@
 
 <hr>
 
-### 專案＆個人作品 Portfolio
+### 個人作品 Portfolio
 
 - <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
   ⌞ Wordpress.org 應用。 <br>
@@ -31,11 +31,12 @@
   ⌞ SA 系統分析。 <br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-db-"> APP 使用畫面截圖及 Firebase DB </a> 
   
-- <a href="" target="_blank"><B>Florist Shop</B></a> <br>
+-  <B>中原大學 - 多媒體程式設計課程 - Simply Blessed Florist Shop</B> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-db-"> 網頁畫面截圖 </a> 
   
-- <a href="" target="_blank"><B>Breakfast Store Website</B></a> <br>
+-  <B>中原大學 - 網路程式設計 - Breakfast Store Website</B> <br>
   ⌞ 版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
   ⌞ JSP 後端程式碼撰寫。 <br>
@@ -130,30 +131,35 @@
 ### 附錄區
 
 #### Go Beyond Edu 畫面截圖：
-<div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/GoBeyondEdu.png" width="80%">     </div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A1%88%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
 
 #### APP 使用畫面截圖及 Firebase DB : 
-<div align=center><img src="https://github.com/waltchensh/Android-ElderApp/blob/master/elderapp-login.png" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/elderapp-login.png" width="80%"></div>
+<div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A1%88%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
+<hr>
+
+#### Simply Blessed Florist Shop 網頁畫面截圖：
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/simply-blessed.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A1%88%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
 
 #### 一主多子表單網頁畫面截圖：
-<div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterDetail-many.png" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/masterDetail-many.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#nodejs--npm--reactjs"> Back To Top </a></div>
 <hr>
 
 #### Photoshop / Illustrator 修讀證明：
-<div align=center><img src="https://github.com/waltchensh/PS-AI/blob/master/ps-ai.jpg" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/ps-ai.jpg" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator"> Back To Top </a></div>
 <hr>
 
 #### SE 獎狀：
-<div align="center"><img src="https://github.com/waltchensh/se/blob/master/se-certificate.jpg" width="80%"></div>
+<div align="center"><img src="https://github.com/waltchensh/resume-images/blob/master/se-certificate.jpg" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8---se-%E8%BB%9F%E9%AB%94%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E8%AA%B2%E7%A8%8B--%E7%B5%84%E9%95%B7--201902---201906"> Back To Top </a></div>
 <hr>
 
 #### SA 獎狀：
- <div align="center"><img src="https://github.com/waltchensh/Android-ElderAPP/blob/master/sa-certificate.jpg" width="80%"></div>
+ <div align="center"><img src="https://github.com/waltchensh/resume-images/blob/master/sa-certificate.jpg" width="80%"></div>
  <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8---sa-%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B---%E9%8A%80%E9%AB%AE%E7%A4%BE%E7%BE%A4-app--%E6%8A%80%E8%A1%93%E9%95%B7-cto--201909---202001"> Back To Top </a></div>
