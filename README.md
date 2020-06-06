@@ -36,7 +36,7 @@
   ⌞ 留言板、購物車等功能製作。<br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#simply-blessed-florist-shop-%E7%B6%B2%E9%A0%81%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 網頁前端畫面截圖 </a> 
   
--  <a href="https://github.com/waltchensh/BreakfastStore-Website" target="_blank"><B>中原大學 - 網路程式設計課程 - Breakfast Store Website</B> </a> <br>
+-  <a href="https://github.com/waltchensh/BreakfastStore-Website/tree/master/Breakfast%20Store" target="_blank"><B>中原大學 - 網路程式設計課程 - Breakfast Store Website</B> </a> <br>
   ⌞ 管理後台、留言板、購物車等功能製作。<br>
   ⌞ 負責 JSP 後端程式碼撰寫。 <br>
   ⌞ MySQL 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
