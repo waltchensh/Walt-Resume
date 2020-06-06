@@ -10,7 +10,7 @@
 
 ### 個人作品 Portfolio
 
-- <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
+- [go](http://47.96.87.69/){:target="_blank" rel="noopener"}<a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a> <br>
   ⌞ Wordpress.org 應用。 <br>
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
