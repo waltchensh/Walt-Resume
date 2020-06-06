@@ -80,7 +80,6 @@
 
 #### C++
 - 資料結構，Binary Search Tree、陣列應用、Stack、Big O Notation 等概念。
-  * <a href="" target="_blank"><B>107-2 中原資工系資料結構課程期中</B></a>
   * <a href="" target="_blank"><B>107-2 中原資工系資料結構課程期末</B></a>
   
 #### Swift Xcode
@@ -92,14 +91,6 @@
 
 <hr>
 
-### 其他技能 Other Skills
-
-#### Photoshop / Illustrator
-- 基礎操作、簡易海報設計
-- img
-
-<hr>
-
 ### 英文相關能力 English Abilities
 
 #### GRE
@@ -108,6 +99,14 @@
 
 #### IELTS
 - Overall 6.0 (2017/02 ~ 2019/02)
+
+<hr>
+
+### 其他技能 Other Skills
+
+#### Photoshop / Illustrator
+- 基礎操作、簡易海報設計
+- <div align=center><img src="https://github.com/waltchensh/PS-AI/blob/master/ps-ai.jpg" width="80%"></div>
 
 <hr>
 
