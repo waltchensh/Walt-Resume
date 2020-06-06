@@ -91,8 +91,8 @@
 ### 英文相關能力 English Abilities
 
 #### GRE
-- V+Q 314 , AWA 3.5
-- img
+- V+Q 314 , AW 3.5
+- <a href="">GRE 成績 
 
 #### IELTS
 - Overall 6.0 (2017/02 ~ 2019/02)
