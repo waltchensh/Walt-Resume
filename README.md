@@ -50,14 +50,14 @@
 - 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform 等應用能力。
 
 #### JavaScript / jQuery
-- 了解基礎的語法使用、功能撰寫，例如：透過Cookie建立、讀取、刪除資料、基本的透過jQuery修改CSS、onclick、及Toggle等程式碼撰寫。
+- 了解基礎的語法使用、功能撰寫，例如：透過 Cooki e建立、讀取、刪除資料、基本的透過 jQuery 修改 CSS、onclick、及 Toggle 等程式碼撰寫。
 
 #### Wordpress
-- 具有使用阿里雲 ECS 架設 wordpress.org 版本的經驗，自行設計網頁前端、工具應用，其中也包括 Linux cmd 指令操作、後台資料庫（MySQL）修改等，亦曾使用 wordpress.com 版本幫他人架設健康食品官網。
+- 具有使用阿里雲 ECS 架設 wordpress.org 版本的經驗，自行設計網頁前端、工具應用，其中也包括 Linux cmd 指令操作、後台資料庫（ MySQL ）修改等，亦曾使用 wordpress.com 版本幫他人架設健康食品官網。
   * <a href="http://47.96.87.69/" target="_blank"><B>Go Beyond Edu</B></a>
   
 #### Node.js / npm / React.js
-- 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前、後端程式碼撰寫及整合（Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
+- 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前、後端程式碼撰寫及整合（ Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
   * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E4%B8%80%E4%B8%BB%E5%A4%9A%E5%AD%90%E8%A1%A8%E5%96%AE%E7%AE%A1%E7%90%86%E5%BE%8C%E5%8F%B0%E7%B6%B2%E9%A0%81%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 一主多子表單管理後台網頁畫面截圖 </a>
   
 #### MySQL
