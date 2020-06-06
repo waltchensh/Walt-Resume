@@ -169,6 +169,11 @@
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#nodejs--npm--reactjs"> Back To Top </a></div>
 <hr>
 
+#### GRE 成績：
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/gre.jpg" width="50%"></div>
+<div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator"> Back To Top </a></div>
+<hr>
+
 #### Photoshop / Illustrator 修讀證明：
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/ps-ai.jpg" width="50%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator"> Back To Top </a></div>
