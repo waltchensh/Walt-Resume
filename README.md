@@ -40,6 +40,7 @@
   ⌞ 管理後台、留言板、購物車等功能製作。<br>
   ⌞ 負責 JSP 後端程式碼撰寫。 <br>
   ⌞ MySQL 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#simply-blessed-florist-shop-%E7%B6%B2%E9%A0%81%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 網頁後台畫面及 MySQL 截圖 </a> 
   
 <hr>
 
@@ -149,6 +150,11 @@
 <hr>
 
 #### Simply Blessed Florist Shop 網頁前端畫面截圖：
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/simplyblessed.png" width="80%"></div>
+<div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
+<hr>
+
+#### 網頁後台畫面及 MySQL 截圖 :
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/simplyblessed.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
