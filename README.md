@@ -19,17 +19,17 @@
 - <B>VR AInterview 模擬面試系統</B> <br>
   ⌞ 負責 Visual Studio C# 腳本撰寫。<br>
   ⌞ API 串接應用。<br>
-  ⌞ 專案展示網站前端製作。<br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-">VR 系統畫面展示 </a> <br>
+  ⌞ 專案展示網站、前端製作。<br>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2%E5%B1%95%E7%A4%BA-">VR AInterview 系統畫面展示 </a> <br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-"> 競賽海報 </a> 設計。<br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站前端畫面截圖 </a>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站畫面截圖 </a>
   
 - <a href="https://github.com/waltchensh/Android-ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
   ⌞ 負責 Android Studio 程式碼撰寫。 <br>
   ⌞ 資料庫設計。 <br>
   ⌞ UX / UI 使用者體驗構想及設計。 <br>
   ⌞ SA 系統分析。 <br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-database-"> APP 使用畫面截圖及 Firebase Database </a> 
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-database-"> APP 使用畫面截圖及 Firebase </a> 
   
 -  <a href="https://github.com/waltchensh/SimplyBlessed-FloristShop/tree/master/Simply%20Blessed%20Florist%20Shop" target="_blank"><B>中原大學 - 多媒體程式設計課程 - Simply Blessed Florist Shop</B> </a><br>
   ⌞ 負責版面設計、前端 HTML、CSS、 JavaScript、jQuery 等程式碼撰寫。 <br>
@@ -73,7 +73,6 @@
 
 #### C# / Unity
 - Unity VR/AR 腳本撰寫、API 串接應用等。
-  * <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
 
 #### C++
 - 資料結構，Binary Search Tree、陣列應用、Stack、Big O Notation 等概念。
@@ -145,7 +144,7 @@
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
 
-#### VR AInterview 展示網站前端畫面截圖 : 
+#### VR AInterview 展示網站畫面截圖 : 
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/A06Poster1.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
