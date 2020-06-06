@@ -40,7 +40,7 @@
   ⌞ 管理後台、留言板、購物車等功能製作。<br>
   ⌞ 負責 JSP 後端程式碼撰寫。 <br>
   ⌞ MySQL 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫。 <br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#simply-blessed-florist-shop-%E7%B6%B2%E9%A0%81%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 網頁會員管理畫面及 MySQL 資料庫截圖 </a> 
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E7%B6%B2%E9%A0%81%E6%9C%83%E5%93%A1%E7%AE%A1%E7%90%86%E7%95%AB%E9%9D%A2%E5%8F%8A-mysql-%E8%B3%87%E6%96%99%E5%BA%AB%E6%88%AA%E5%9C%96-6"> 網頁會員管理畫面及 MySQL 資料庫截圖 </a> 
   
 <hr>
 
