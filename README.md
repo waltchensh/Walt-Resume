@@ -4,7 +4,6 @@
 - Location : 桃園市中壢區 <br>
 - Phone : (+886) 0970-080-998 <br>
 - E-mail : waltchensh@gmail.com <br>
-- Website : <br>
 
 <hr>
 
