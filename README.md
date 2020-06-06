@@ -124,7 +124,7 @@
 #### 中原大學 - SA 系統分析與設計課程 - 銀髮社群 APP ｜ 技術長 CTO ｜ 2019/09 - 2020/01
 * 負責內容 ： 程式設計及撰寫、資料庫設計、UX / UI 使用者體驗構想及設計、SA 系統分析
 * 經歷簡介 ： 課程與銀髮族協會合作，其中負責撰寫幫助銀髮族聚會的 APP ，透過 Android Studio 設計，並於系內班際競賽中贏過隔壁班對抗組所設計的APP。
-* img
+* <div align="center"><img src="https://github.com/waltchensh/Android-ElderAPP/blob/master/sa-certificate.jpg" width="80%"></div>
 <hr>
 
 ### 關於我 About Me
