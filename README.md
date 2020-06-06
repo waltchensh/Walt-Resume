@@ -34,9 +34,9 @@
 -  <B>中原大學 - 多媒體程式設計課程 - Simply Blessed Florist Shop</B> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-db-"> 網頁畫面截圖 </a> 
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#simply-blessed-florist-shop-%E7%B6%B2%E9%A0%81%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 網頁畫面截圖 </a> 
   
--  <B>中原大學 - 網路程式設計 - Breakfast Store Website</B> <br>
+-  <B>中原大學 - 網路程式設計課程 - Breakfast Store Website</B> <br>
   ⌞ 版面設計、前端程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能。<br>
   ⌞ JSP 後端程式碼撰寫。 <br>
