@@ -140,7 +140,7 @@
 <hr>
 
 #### Simply Blessed Florist Shop 網頁畫面截圖：
-<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/simply-blessed.png" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/simplyblessed.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
 
