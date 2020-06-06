@@ -2,7 +2,7 @@
 - Birthday： 1997/04/12 <br>
 - Education : 中原大學-資訊管理學系 CYIM <br>
 - Location : 桃園市中壢區 <br>
-- Phone : (+886) 0970080998 <br>
+- Phone : (+886) 0970-080-998 <br>
 - E-mail : waltchensh@gmail.com <br>
 - Website : <br>
 
