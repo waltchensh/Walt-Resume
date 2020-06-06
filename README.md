@@ -29,8 +29,7 @@
   ⌞ 資料庫設計。 <br>
   ⌞ UX / UI 使用者體驗構想及設計。 <br>
   ⌞ SA 系統分析。 <br>
-  ⌞ APP 使用畫面截圖及 Firebase DB : <br>
-  <div align=center><img src="https://github.com/waltchensh/Android-ElderApp/blob/master/elderapp-login.png" width="80%"></div>
+  ⌞ <a href=""> APP 使用畫面截圖及 Firebase DB </a> 
   
 - <a href="" target="_blank"><B>Florist Shop</B></a> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
@@ -58,8 +57,7 @@
   
 #### Node.js / npm / React.js
 - 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前後端程式碼撰寫及整合（Node.js、React.js 及 Eclipse 使用)，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。
-  * 網頁畫面截圖 : <br>
-   <div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterDetail-many.png" width="80%"></div>
+  * <a href=""> 網頁畫面截圖 </a>
   
 #### MySQL
 - 網頁資料庫連接、資料儲存、讀取等，資料庫程式語法撰寫、正規化概念、關聯式資料庫設計。
@@ -105,7 +103,7 @@
 
 #### Photoshop / Illustrator
 - 基礎操作、簡易海報設計
-- <div align=center><img src="https://github.com/waltchensh/PS-AI/blob/master/ps-ai.jpg" width="80%"></div>
+- <a href=""> 學習證書 </a>
 
 <hr>
 
@@ -118,12 +116,12 @@
 ####  中原大學 - SE 軟體專案管理課程 ｜ 組長 ｜ 2019/02 - 2019/06
 * 負責內容 ： 時間與流程管理、活動企劃構想及規劃、企劃書撰寫、執行評估報告撰寫
 * 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共 25 組的競賽中滿意度問卷調查及參與人數獲得第三名。
-* <div align="center"><img src="https://github.com/waltchensh/se/blob/master/se-certificate.jpg" width="80%"></div>
+* <a href=""> 獎狀 </a>
 
 #### 中原大學 - SA 系統分析與設計課程 - 銀髮社群 APP ｜ 技術長 CTO ｜ 2019/09 - 2020/01
 * 負責內容 ： 程式設計及撰寫、資料庫設計、UX / UI 使用者體驗構想及設計、SA 系統分析
 * 經歷簡介 ： 課程與銀髮族協會合作，其中負責撰寫幫助銀髮族聚會的 APP ，透過 Android Studio 設計，並於系內班際競賽中贏過隔壁班對抗組所設計的APP。
-* <div align="center"><img src="https://github.com/waltchensh/Android-ElderAPP/blob/master/sa-certificate.jpg" width="80%"></div>
+* <a href=""> 獎狀 </a>
 <hr>
 
 ### 關於我 About Me
@@ -132,4 +130,17 @@
 #### Go Beyond Edu 畫面截圖：
 <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
 
+#### APP 使用畫面截圖及 Firebase DB : 
+<div align=center><img src="https://github.com/waltchensh/Android-ElderApp/blob/master/elderapp-login.png" width="80%"></div>
 
+#### 一主多子表單網頁畫面截圖：
+<div align=center><img src="https://github.com/waltchensh/masterdetail-many/blob/master/masterDetail-many.png" width="80%"></div>
+
+#### Photoshop / Illustrator
+<div align=center><img src="https://github.com/waltchensh/PS-AI/blob/master/ps-ai.jpg" width="80%"></div>
+
+#### SE 獎狀：
+<div align="center"><img src="https://github.com/waltchensh/se/blob/master/se-certificate.jpg" width="80%"></div>
+
+#### SA 獎狀：
+ <div align="center"><img src="https://github.com/waltchensh/Android-ElderAPP/blob/master/sa-certificate.jpg" width="80%"></div>
