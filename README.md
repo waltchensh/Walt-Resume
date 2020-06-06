@@ -129,4 +129,8 @@
 
 ### 關於我 About Me
 
+### 附錄區
+#### Go Beyond Edu 畫面截圖：<br>
+    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
+
 
