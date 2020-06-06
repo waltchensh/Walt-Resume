@@ -127,7 +127,7 @@
 
 <hr>
 
-### 附錄區
+### 附錄區 Attachments
 
 #### Go Beyond Edu 網站前端畫面截圖：
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/GoBeyondEdu.png" width="80%">     </div>
