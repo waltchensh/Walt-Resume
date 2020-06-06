@@ -16,10 +16,11 @@
   ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。<br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#go-beyond-edu-%E7%B6%B2%E7%AB%99%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> Go Beyond Edu 網站前端畫面截圖 </a>
     
-- <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
+- <B>VR AInterview 模擬面試系統</B> <br>
   ⌞ 負責 Visual Studio C# 腳本撰寫。<br>
   ⌞ API 串接應用。<br>
   ⌞ 專案展示網站前端製作。<br>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-">VR 系統畫面展示 </a> <br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-"> 競賽海報 </a> 設計。<br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站前端畫面截圖 </a>
   
