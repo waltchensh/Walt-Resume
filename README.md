@@ -15,7 +15,7 @@
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
   ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。<br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#go-beyond-edu-%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> Go Beyond Edu 網站畫面截圖 </a>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#go-beyond-edu-%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> Go Beyond Edu 網站前端畫面截圖 </a>
     
 - <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
   ⌞ Visual Studio C# 腳本撰寫。<br>
@@ -128,7 +128,7 @@
 
 ### 附錄區
 
-#### Go Beyond Edu 網站畫面截圖：
+#### Go Beyond Edu 網站前端畫面截圖：
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/GoBeyondEdu.png" width="80%">     </div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
