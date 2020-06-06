@@ -91,7 +91,7 @@
 
 #### GRE
 - V+Q 314 , AW 3.5
-- <a href="">GRE 成績 </a>
+- <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#gre-%E6%88%90%E7%B8%BE">GRE 成績 </a>
 
 #### IELTS
 - Overall 6.0 (2017/02 ~ 2019/02)
@@ -171,7 +171,7 @@
 
 #### GRE 成績：
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/gre.jpg" width="50%"></div>
-<div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator"> Back To Top </a></div>
+<div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#gre"> Back To Top </a></div>
 <hr>
 
 #### Photoshop / Illustrator 修讀證明：
