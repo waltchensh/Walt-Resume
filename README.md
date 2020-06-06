@@ -15,9 +15,8 @@
   ⌞ Linux command line 操作。 <br>
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
   ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。<br>
-  ⌞ Go Beyond Edu 畫面截圖：<br>
-    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
-
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#go-beyond-edu-%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> Go Beyond Edu 畫面截圖 </a>
+    
 - <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
   ⌞ Visual Studio 腳本撰寫。<br>
   ⌞ API 串接。<br>
@@ -130,7 +129,7 @@
 ### 關於我 About Me
 
 ### 附錄區
-#### Go Beyond Edu 畫面截圖：<br>
-    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
+#### Go Beyond Edu 畫面截圖：
+<div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
 
 
