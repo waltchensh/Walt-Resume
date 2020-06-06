@@ -31,7 +31,7 @@
   ⌞ SA 系統分析。 <br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-database-"> APP 使用畫面截圖及 Firebase Database </a> 
   
--  <B>中原大學 - 多媒體程式設計課程 - Simply Blessed Florist Shop</B> <br>
+-  <a href="https://github.com/waltchensh/SimplyBlessed-FloristShop/tree/master/Simply%20Blessed%20Florist%20Shop" target="_blank"><B>中原大學 - 多媒體程式設計課程 - Simply Blessed Florist Shop</B> </a><br>
   ⌞ 負責版面設計、前端 HTML、CSS、 JavaScript、jQuery 等程式碼撰寫。 <br>
   ⌞ 留言板、購物車等功能製作。<br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#simply-blessed-florist-shop-%E7%B6%B2%E9%A0%81%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 網頁前端畫面截圖 </a> 
