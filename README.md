@@ -22,7 +22,7 @@
   ⌞ 專案展示網站、前端製作。<br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2%E5%B1%95%E7%A4%BA-">VR AInterview 系統畫面展示 </a> <br>
   ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-"> 競賽海報 </a> 設計。<br>
-  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E5%89%8D%E7%AB%AF%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站畫面截圖 </a>
+  ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站畫面截圖 </a>
   
 - <a href="https://github.com/waltchensh/Android-ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
   ⌞ 負責 Android Studio 程式碼撰寫。 <br>
