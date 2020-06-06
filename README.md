@@ -80,6 +80,7 @@
   
 #### Swift Xcode
 - 於中原 107-2 學期修讀 iOS 程式設計課程，另外也透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計 APP。
+  * <a href="https://github.com/waltchensh/Concentration" target="_blank"><B>Concentration</B></a>
   * <a href="https://github.com/waltchensh/EmojiArt-APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
   
 #### Firebase
