@@ -73,7 +73,6 @@
 #### C# / Unity
 - Unity VR/AR 腳本撰寫、API 串接應用等。
   * <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a>
-  * <img>
 
 #### C++
 - 資料結構，Binary Search Tree、陣列應用、Stack、Big O Notation 等概念。
