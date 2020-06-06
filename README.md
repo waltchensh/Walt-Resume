@@ -16,7 +16,7 @@
   ⌞ MySQL 資料維護、儲存、修改等。 <br>
   ⌞ 租用伺服器、網域購置、阿里巴巴 ECS。<br>
   ⌞ Go Beyond Edu 畫面截圖：<br>
-    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu_Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
+    <div align=center><img src="https://github.com/waltchensh/GoBeyondEdu-Website/blob/master/GoBeyondEdu.png" width="80%">     </div>
 
 - <a href="" target="_blank"><B>VR AInterview 模擬面試系統</B></a> <br>
   ⌞ Visual Studio 腳本撰寫。<br>
@@ -25,13 +25,13 @@
   ⌞ 競賽海報設計。<br>
   ⌞ <img>
   
-- <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
+- <a href="https://github.com/waltchensh/Android-ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
   ⌞ Android Studio 基本操作、程式碼撰寫。 <br>
   ⌞ 資料庫設計。 <br>
   ⌞ UX / UI 使用者體驗構想及設計。 <br>
   ⌞ SA 系統分析。 <br>
   ⌞ APP 使用畫面截圖及 Firebase DB : <br>
-  <div align=center><img src="https://github.com/waltchensh/Android_ElderApp/blob/master/elderapp-login.png" width="80%"></div>
+  <div align=center><img src="https://github.com/waltchensh/Android-ElderApp/blob/master/elderapp-login.png" width="80%"></div>
   
 - <a href="" target="_blank"><B>Florist Shop</B></a> <br>
   ⌞ 負責版面設計、前端程式碼撰寫。 <br>
@@ -67,11 +67,11 @@
 
 #### Python
 - 了解基礎程式語法撰寫、Data Mining、Data Visualization、django、爬取網站資料加以應用及畫圖、分析等。
-  * <a href="https://github.com/waltchensh/Python_Final_Project" target="_blank"><B>Python 課程 Final Project</B></a>
+  * <a href="https://github.com/waltchensh/finalProject" target="_blank"><B>Python 課程 Final Project</B></a>
 
 #### JAVA / Android Studio
 - 了解程式設計及邏輯、基礎程式語法撰寫、Android APP 簡易開發、QR Code 產生和掃描等功能應用。
-  * <a href="https://github.com/waltchensh/Android_ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
+  * <a href="https://github.com/waltchensh/Android-ElderAPP" target="_blank"><B>銀髮社群 APP</B></a>
 
 #### C# / Unity
 - Unity VR/AR 腳本撰寫、API 串接應用等。
@@ -85,7 +85,7 @@
   
 #### Swift Xcode
 - 於中原 107-2 學期修讀 iOS 程式設計課程，另外也透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻卡牌配對遊戲、表情符號設計 APP。
-  * <a href="https://github.com/waltchensh/EmojiArt_APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
+  * <a href="https://github.com/waltchensh/EmojiArt-APP" target="_blank"><B>表情符號設計 Emoji Art</B></a>
   
 #### Firebase
 - 與 Android Studio 連結，資料庫、登入註冊等功能使用。
