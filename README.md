@@ -145,7 +145,7 @@
 <hr>
 
 #### VR AInterview 展示網站畫面截圖 : 
-<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/A06Poster1.png" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/VRAInterview-web.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81-portfolio"> Back To Top </a></div>
 <hr>
 
