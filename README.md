@@ -44,7 +44,7 @@
   
 <hr>
 
-### 程式技能 & 作品 Coding Skills ＆ Portfolio
+### 程式技能 Coding Skills 
 
 #### HTML / CSS 
 - 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform 等應用能力。
