@@ -94,7 +94,7 @@
 ### 其他技能 Other Skills
 
 * <B> Photoshop / Illustrator </B> <br>
-   * 基礎操作、簡易海報設計 <br>
+   * 基礎操作、簡易海報設計。 <br>
       * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator-%E4%BF%AE%E8%AE%80%E8%AD%89%E6%98%8E"> 健行推廣教育中心修讀證明 </a> <br>
 
 <hr>
