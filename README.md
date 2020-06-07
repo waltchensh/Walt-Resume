@@ -83,37 +83,38 @@
 
 ### 英文相關能力 English Abilities
 
-* GRE
-   * V+Q 314 , AW 3.5
+* <B> GRE </B> <br>
+   * V+Q 314 , AW 3.5 <br>
 
-* IELTS
-   * Overall 6.0 (2017/02 ~ 2019/02)
+* <B> IELTS </B> <br>
+   * Overall 6.0 (2017/02 ~ 2019/02) <br>
 
 <hr>
 
 ### 其他技能 Other Skills
 
-* Photoshop / Illustrator
+* <B> Photoshop / Illustrator </B> <br>
    * 基礎操作、簡易海報設計 <br>
-      * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator-%E4%BF%AE%E8%AE%80%E8%AD%89%E6%98%8E"> 健行推廣教育中心修讀證明 </a>
+      * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#photoshop--illustrator-%E4%BF%AE%E8%AE%80%E8%AD%89%E6%98%8E"> 健行推廣教育中心修讀證明 </a> <br>
 
 <hr>
 
 ### 大學經歷 Experience
 
-#### 綠河社區大學 - 台灣文化社 TCA ｜ 公關 PR ｜ 2016/09 - 2017/08
-* 負責內容 ： 台灣文化推廣、活動企劃 
-* 經歷簡介 ： 就讀於華盛頓州 Green River College 時擔任台灣文化社 PR，期間參與活動企劃並推動各大節慶活動，包括包水餃體驗、中秋烤肉、雙十活動、農曆新年團圓火鍋等，也帶領社員參與 University of Washington 舉辦的夜市活動，藉由社團活動向來自世界各地的同學宣傳台灣文化，並體驗台灣的風俗。
+* 綠河社區大學 - 台灣文化社 TCA ｜ 公關 PR ｜ 2016/09 - 2017/08 <br>
+   * 負責內容 ： 台灣文化推廣、活動企劃  <br>
+   * 經歷簡介 ： 就讀於華盛頓州 Green River College 時擔任台灣文化社 PR，期間參與活動企劃並推動各大節慶活動，包括包水餃體驗、中秋烤肉、雙十活動、農曆新年團圓火鍋等，也帶領社員參與 University of Washington 舉辦的夜市活動，藉由社團活動向來自世界各地的同學宣傳台灣文化，並體驗台灣的風俗。 <br>
 
-####  中原大學 - SE 軟體專案管理課程 ｜ 組長 ｜ 2019/02 - 2019/06
-* 負責內容 ： 時間與流程管理、活動企劃構想及規劃、企劃書撰寫、執行評估報告撰寫
-* 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共 25 組的競賽中滿意度問卷調查及參與人數獲得第三名。
-* <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#se-%E8%BB%9F%E9%AB%94%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E8%AA%B2%E7%A8%8B%E7%8D%8E%E7%8B%80"> SE 軟體專案管理課程獎狀 </a>
+*  中原大學 - SE 軟體專案管理課程 ｜ 組長 ｜ 2019/02 - 2019/06 <br>
+   * 負責內容 ： 時間與流程管理、活動企劃構想及規劃、企劃書撰寫、執行評估報告撰寫 <br>
+   * 經歷簡介 ： 於課程期末舉辦夜市擺攤活動，讓中原的學生、當地居民及夜市的人潮體驗科技對生活所帶來的改變，我們組所推出的夜市科技雷射槍，透過程式碼能輕易變換遊戲的規則、標靶角度等，獲得熱烈好評，並於共 25 組的競賽中滿意度問卷調查及參與人數獲得第三名。 <br>
+* <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#se-%E8%BB%9F%E9%AB%94%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E8%AA%B2%E7%A8%8B%E7%8D%8E%E7%8B%80"> SE 軟體專案管理課程獎狀 </a> <br>
 
-#### 中原大學 - SA 系統分析與設計課程 - 銀髮社群 APP ｜ 技術長 CTO ｜ 2019/09 - 2020/01
-* 負責內容 ： 程式設計及撰寫、資料庫設計、UX / UI 使用者介面及體驗設計、SA 系統分析
-* 經歷簡介 ： 課程與銀髮族協會合作，其中負責撰寫幫助銀髮族聚會的 APP ，透過 Android Studio 設計，並於系內班際競賽中贏過隔壁班對抗組所設計的APP。
-* <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#sa-%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B%E7%8D%8E%E7%8B%80"> SA 系統分析與設計課程獎狀 </a>
+* 中原大學 - SA 系統分析與設計課程 - 銀髮社群 APP ｜ 技術長 CTO ｜ 2019/09 - 2020/01 <br>
+   * 負責內容 ： 程式設計及撰寫、資料庫設計、UX / UI 使用者介面及體驗設計、SA 系統分析 <br>
+   * 經歷簡介 ： 課程與銀髮族協會合作，其中負責撰寫幫助銀髮族聚會的 APP ，透過 Android Studio 設計，並於系內班際競賽中贏過隔壁班對抗組所設計的APP。 <br>
+   * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#sa-%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B%E7%8D%8E%E7%8B%80"> SA 系統分析與設計課程獎狀 </a> <br>
+   
 <hr>
 
 ### 關於我 About Me
