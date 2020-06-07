@@ -54,7 +54,7 @@
         ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#app-%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96%E5%8F%8A-firebase-database-"> APP 使用畫面截圖及 Firebase </a> <br>
   
   
-*  <B> Node.js / npm / React.js </B> - 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前、後端程式碼撰寫及整合（使用 Node.js、React.js 及 Eclipse )，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。 <br>
+*  <B> Node.js / NPM / React.js </B> - 於中原 108-2 學期參加企業資源規劃課程，該課程與用友雲企業合作，授課內容包括前、後端程式碼撰寫及整合（使用 Node.js、React.js 及 Eclipse )，學習架設基本的企業後台操作網頁、一主多子表單，包括新增、修改、刪除、查詢等基本功能。 <br>
 
     * <B> 相關作品 : </B> <br>
        * <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E4%B8%80%E4%B8%BB%E5%A4%9A%E5%AD%90%E8%A1%A8%E5%96%AE%E7%AE%A1%E7%90%86%E5%BE%8C%E5%8F%B0%E7%B6%B2%E9%A0%81%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96"> 一主多子表單管理後台網頁畫面截圖 </a> <br>
