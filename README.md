@@ -2,7 +2,7 @@
 - Birthday： 1997/04/12 <br>
 - Education : 中原大學-資訊管理學系 CYIM <br>
 - Location : 桃園市中壢區 <br>
-- Phone : (+886) 0970-080-998 <br>
+- Mobile : (+886) 0970-080-998 <br>
 - E-mail : waltchensh@gmail.com <br>
 
 <hr>
@@ -44,7 +44,7 @@
   
 <hr>
 
-### 程式相關技能 Coding Skills
+### 程式技能 & 作品 Coding Skills ＆ Portfolio
 
 #### HTML / CSS 
 - 網頁排版、W3Schools、Bootstrap、RWD、CSS Animation、Filter、Transform 等應用能力。
