@@ -44,7 +44,7 @@
         ⌞ MySQL 資料庫設計、連接、資料的新增、刪除、修改、查詢功能撰寫，包含商品上架、會員管理等。 <br>
         ⌞ counter 網頁瀏覽人數程式碼撰寫。 <br>
         ⌞ SQL injection 預防。 <br>
-        ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E7%B6%B2%E9%A0%81%E6%9C%83%E5%93%A1%E7%AE%A1%E7%90%86%E7%95%AB%E9%9D%A2%E5%8F%8A-mysql-%E8%B3%87%E6%96%99%E5%BA%AB%E6%88%AA%E5%9C%96-"> 網頁會員管理畫面及 MySQL 資料庫截圖 </a> <br>
+        ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E7%B6%B2%E9%A0%81%E6%9C%83%E5%93%A1%E7%AE%A1%E7%90%86%E7%95%AB%E9%9D%A2%E5%8F%8A-mysql-%E8%B3%87%E6%96%99%E5%BA%AB%E6%88%AA%E5%9C%96-"> Breakfast Store Website 會員管理畫面及 MySQL 資料庫截圖 </a> <br>
     
       * <a href="https://github.com/waltchensh/Android-ElderAPP" target="_blank"><B>銀髮社群 APP</B></a> <br>
         ⌞ 負責 Android Studio 程式碼撰寫。 <br>
@@ -133,7 +133,7 @@
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A5%AD%E6%8A%80%E8%83%BD%E8%88%87%E4%BD%9C%E5%93%81-coding-skills--portfolio"> Back To Coding Skills & Portfolio </a></div>
 <hr>
 
-#### 網頁會員管理畫面及 MySQL 資料庫截圖 :
+#### Breakfast Store Website 會員管理畫面及 MySQL 資料庫截圖 :
 <div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/breakfastStoreWebsite.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A5%AD%E6%8A%80%E8%83%BD%E8%88%87%E4%BD%9C%E5%93%81-coding-skills--portfolio"> Back To Coding Skills & Portfolio </a></div>
 <hr>
