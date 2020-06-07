@@ -134,7 +134,7 @@
 <hr>
 
 #### 網頁會員管理畫面及 MySQL 資料庫截圖 :
-<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/breakfastStore.png" width="80%"></div>
+<div align=center><img src="https://github.com/waltchensh/resume-images/blob/master/breakfastStoreWeb.png" width="80%"></div>
 <div align=right><a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#%E5%B0%88%E6%A5%AD%E6%8A%80%E8%83%BD%E8%88%87%E4%BD%9C%E5%93%81-coding-skills--portfolio"> Back To Coding Skills & Portfolio </a></div>
 <hr>
 
