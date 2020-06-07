@@ -64,7 +64,7 @@
       * <a href="https://github.com/waltchensh/finalProject" target="_blank"><B>中原大學 - Python 課程 - Final Project</B></a> <br>
 
 
-*  <B> C# / Unity </B> - Unity VR / AR 腳本撰寫、API 串接應用等。 <br>
+*  <B> C# </B> - Unity VR / AR 腳本撰寫、API 串接應用等。 <br>
     * <B> 相關作品 : </B> <br>
       * <B>VR AInterview 模擬面試系統</B> <br>
         ⌞ 負責 Visual Studio C# 腳本撰寫。<br>
@@ -74,7 +74,7 @@
         ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2%E5%B1%95%E7%A4%BA-">VR AInterview 系統畫面截圖 </a> <br>
         ⌞ <a href="https://github.com/waltchensh/Walt-Resume/blob/master/README.md#vr-ainterview-%E5%B1%95%E7%A4%BA%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-"> 展示網站畫面截圖 </a> <br>
 
-*  <B> Swift Xcode </B> - 於中原 107-2 學期修讀 iOS 程式設計課程，也透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻牌記憶遊戲、表情符號設計 APP。 <br>
+*  <B> Swift </B> - 於中原 107-2 學期修讀 iOS 程式設計課程，也透過 Stanford 大學的 CS193P 課程影片自學，理解其中 MVC 概念，而成果包括基本的翻牌記憶遊戲、表情符號設計 APP。 <br>
     * <B> 相關作品 : </B> <br>
       * <a href="https://github.com/waltchensh/Concentration" target="_blank"><B>翻牌記憶遊戲 Concentration</B></a> <br>
       * <a href="https://github.com/waltchensh/EmojiArt-APP" target="_blank"><B>表情符號設計 Emoji Art</B></a> <br>
