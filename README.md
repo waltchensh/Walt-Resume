@@ -1,4 +1,4 @@
-<img src="https://github.com/waltchensh/resume-images/blob/master/me.jpg" width="10%"> <br>
+<div width="40%" align=center><img src="https://github.com/waltchensh/resume-images/blob/master/me.jpg" width="10%"> </div>
 
 # 陳聖樺 Walt Chen
 - Birthday： 1997/04/12 <br>
