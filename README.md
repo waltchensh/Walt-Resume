@@ -1,3 +1,5 @@
+<img src="https://github.com/waltchensh/resume-images/blob/master/GoBeyondEdu.png" width="20%"> <br>
+
 # 陳聖樺 Walt Chen
 - Birthday： 1997/04/12 <br>
 - Education : 中原大學-資訊管理學系 CYIM <br>
